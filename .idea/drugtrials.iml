@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7 virtualenv at ~/scrapyenv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="wanfang" />
+    <orderEntry type="module" module-name="haodf" />
+    <orderEntry type="module" module-name="39健康网" />
+    <orderEntry type="module" module-name="baidu_tieba" />
+    <orderEntry type="module" module-name="wanfang" />
+    <orderEntry type="module" module-name="chunyu_doctor" />
+    <orderEntry type="module" module-name="naxions_spider" />
+    <orderEntry type="module" module-name="haodf" />
+    <orderEntry type="module" module-name="baidu_xueshu" />
+    <orderEntry type="module" module-name="naxions_spider" />
+    <orderEntry type="module" module-name="weiyi" />
+    <orderEntry type="module" module-name="DGSpiderV1" />
+    <orderEntry type="module" module-name="weiyi" />
+    <orderEntry type="module" module-name="HaodfAddId" />
+    <orderEntry type="module" module-name="people_army" />
+    <orderEntry type="module" module-name="haodf_wenzhang" />
+    <orderEntry type="module" module-name="study_plt" />
+    <orderEntry type="module" module-name="tieba" />
+    <orderEntry type="module" module-name="newrank" />
+    <orderEntry type="module" module-name="yaozh" />
+    <orderEntry type="module" module-name="health_39" />
+    <orderEntry type="module" module-name="haodf_date_question" />
+    <orderEntry type="module" module-name="webquestion_xiugai" />
+    <orderEntry type="module" module-name="5" />
+    <orderEntry type="module" module-name="PMR" />
+    <orderEntry type="module" module-name="4" />
+    <orderEntry type="module" module-name="health_39_symptom" />
+    <orderEntry type="module" module-name="check_39" />
+  </component>
+</module>
